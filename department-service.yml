@@ -11,7 +11,8 @@ spring:
     properties:
       hibernate:
         dialect:
-  
+  boot:
+  message: hello-world
 eureka:
   instance:
     client:
